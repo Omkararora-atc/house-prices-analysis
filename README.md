@@ -6,12 +6,11 @@ A data science project focused on **cleaning, processing, and analyzing housing 
 
 ## 📁 Project Structure
 
-```mermaid
-flowchart TD
-    A[📄 Raw Data[house_prices.csv] --> B[🧹 Data Cleaning-->[Data_clean.ipynb]
-    B --> C[📄 Cleaned Data<br>house_prices_cleaned.csv]
-    C --> D[📊 Data Analysis[Analysis.ipynb]
-```
+
+## flowchart TD
+* A[📄 Raw Data[house_prices.csv] --> B[🧹 Data Cleaning-->[Data_clean.ipynb]
+* B --> C[📄 Cleaned Data<br>house_prices_cleaned.csv]
+* C --> D[📊 Data Analysis[Analysis.ipynb]
 ## 📌Objectives
 Perform data cleaning and preprocessing on raw housing data.
 
